@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Argenis Pinto
 
-Soy **QA Tester Manual & Automation SSr**, con mas de 4 años de experiencia en la ejecución y seguimiento de pruebas de software enfocadas en el aseguramiento de la calidad de diversos proyectos de software, bajo estandares de Metodologías Ágiles (DevOps, Scrum, Kanban). 🔍
+Soy **QA Tester Manual & Automation SSr**, con más de 4 años de experiencia en la ejecución y seguimiento de pruebas de software enfocadas en el aseguramiento de la calidad de diversos proyectos de software, bajo estándares de Metodologías Ágiles (DevOps, Scrum, Kanban). 🔍
 
 Contribuí en proyectos de software ERP administrativo/contable, e-commerce, customer service y bases de datos de consulta de proyectos de ingeniería en aplicaciones Web y Mobile. 💽
 
@@ -86,7 +86,7 @@ Contribuí en proyectos de software ERP administrativo/contable, e-commerce, cus
 - Cypress  (JS, TS, Python) 
 - Playwright  (Java, JS, TS, Python) 
 - Postman / Newman
-- SOAP UI
+- SoapUI
 - Cucumber (BDD)  
 - JMeter  
 
