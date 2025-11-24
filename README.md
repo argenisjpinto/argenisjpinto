@@ -4,10 +4,6 @@ Soy **QA Tester Manual & Automation SSr**, con mas de 4 años de experiencia en 
 
 Contribuí en proyectos de software ERP administrativo/contable, e-commerce, customer service y bases de datos de consulta de proyectos de ingeniería en aplicaciones Web y Mobile. 💽
 
-Como QA Automation, integro conocimientos de desarrollo web (HTML/CSS) con soluciones avanzadas de automatización. Hoy me encuentro ampliando mis competencias hacia el testing de modelos de Machine Learning, sumando una visión innovadora y orientada a fortalecer el ciclo completo de calidad. 🌠
-
-Mi prioridad es hacia el aseguramiento de la calidad de todos y cada uno de los requerimientos asignados y así poder otorgar una solución eficiente y efectiva a cada uno de ellos. ✔️
-
 ---
 
 ## 🏷️ Badges
